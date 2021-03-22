@@ -1,2 +1,2 @@
-# Flujo-VehicularBsAs
-# Flujo-VehicularBsAs
+# Flujo-VehicularBsAs: Proyecto n° 3 correspondiente a Acamica. 
+En el mismo, utilizo un dataset compuesto por la cantidad pases en distintas autopistas de Ciudad de Buenos Aires. En esta oportunidad selecciono un peaje propuesto y un tipo de pago, y predigo como sera el flujo vehicular para los ultimos meses de 2019. Finalmente termino prediciendo el flujo vehicular para el año 2020 con un nuevo modelo "Prophet". 
